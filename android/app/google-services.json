@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754625071440",
+    "project_id": "newspaperapp-91e09",
+    "storage_bucket": "newspaperapp-91e09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754625071440:android:3d4212249c865d7d03c455",
+        "android_client_info": {
+          "package_name": "com.example.flutter_newspaper_reading_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754625071440-camj0762h5rugi13jjrrqct2ubiap7gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaqcH3xsohDxYHVfediDG6GB1OTEyCUiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754625071440-camj0762h5rugi13jjrrqct2ubiap7gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
